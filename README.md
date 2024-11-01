@@ -5,6 +5,8 @@ The python code implementation of the paper "Local Information-Enhanced Graph-Tr
 
 * Python == 3.12.4
 * Numpy == 1.26.4
+* Torch == 2.4.0
+* scikit-image == 0.24.0
 
 ## Usage
 Run the main function for training and testing
